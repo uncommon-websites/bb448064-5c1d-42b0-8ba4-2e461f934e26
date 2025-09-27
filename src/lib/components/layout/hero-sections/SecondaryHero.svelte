@@ -21,7 +21,7 @@
 			<img
 				class="h-full w-full object-cover"
 				src={imageSrc}
-				alt="Diverse group of people collaborating"
+				alt="Music founders in creative workspace with vinyl records"
 			/>
 		</div>
 	</div>
