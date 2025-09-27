@@ -54,40 +54,21 @@
 			name: "Niclas Heussinger",
 			position: "Chief Executive Officer",
 			bio: "Music enthusiast who believes every great artist deserves to find their audience, and every music lover deserves to discover their next favorite band.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			image: "/generated/image-editorial-style-headshot-of-a-young-male.webp"
 		},
 		{
 			name: "Chloe Smith",
 			position: "Chief Marketing Officer",
 			bio: "Community builder with deep roots in local music scenes, dedicated to connecting artists with the fans who will love them most.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	stakeholderType="investor"
-	title="Backed by the best"
-	subtitle="Point Nine, TSIC and others"
-	stakeholders={[
-		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
-		},
-		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
-		},
-		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
+			image: "/generated/image-editorial-style-headshot-of-a-young-fema.webp"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to discover?"
-	subtitle="Your next favorite show is waiting"
-	description="Join music lovers who've discovered their new favorite artists through intimate venue experiences that you'll never find on mainstream platforms."
+	title="Start discovering tonight"
+	subtitle="Local shows. Real artists. No algorithms."
+	description="Join thousands of music lovers who've found their next favorite artist before the rest of the world. Get curated recommendations from local tastemakers and never miss an intimate show again."
+	imageSrc="/generated/image-a-young-music-fan-standing-near-the-stag.webp"
 />
