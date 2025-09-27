@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Find music that finds you"
+	subtitle="Real shows. Local artists. No algorithms."
+	imageSrc="/generated/image-a-small-group-of-young-adults-aged-22-35.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by music lovers everywhere"
+	logoUrls={[
+		'https://cdn.brandfetch.io/spotify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/airbnb.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/soundcloud.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/redbull.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
