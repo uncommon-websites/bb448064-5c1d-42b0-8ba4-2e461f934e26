@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"I watched myself break the same commitments for years, losing count of abandoned streaks and ignored reminders. The day I put €20 on the line with a friend, everything changed. That's when I knew consequences, not badges, were the answer."`}
 			/>
 
 			<!-- Team Member & CTA Section -->

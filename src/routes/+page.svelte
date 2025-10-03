@@ -93,5 +93,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Stop breaking promises to yourself"
+	subtitle="Start building the habits that stick"
+	description="Your next goal doesn't need another app with meaningless streaks. It needs real stakes. Join ambitious professionals who put their money where their goals are and finally follow through."
+	imageSrc="/generated/image-a-young-professional-in-stylish-workout-.webp"
+	callsToAction={[
+		{
+			href: "/start",
+			label: "Create your first stake",
+			variant: "primary"
+		},
+		{
+			href: "/about",
+			label: "See how verification works",
+			variant: "secondary"
+		}
+	]}
+/>
